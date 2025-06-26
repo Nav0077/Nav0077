@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [NAV]
 
 🚀 I'm a passionate Full-Stack Developer / Game Developer / CS Student  
 🎯 Currently working on: [Hidden]  
