@@ -66,9 +66,9 @@
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/nav](https://www.linkedin.com/in/nav-b-9310b9312/))
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)]([https://youtube.com/@YOUR-CHANNEL](https://www.youtube.com/@77me-x))
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basnetnavraj4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/nav]("https://www.linkedin.com/in/nav-b-9310b9312/"))
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)]([https://youtube.com/@YOUR-CHANNEL]("https://www.youtube.com/@77me-x"))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:basnetnavraj4@gmail.com")
 
 ---
 
