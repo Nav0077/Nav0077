@@ -36,28 +36,10 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nav0077&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Stats" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nav0077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Languages" />
-</div>
-
-<div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nav0077&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=0D1117" alt="Streak" />
-</div>
-
----
-
-### 🏆 Achievements
-<!-- 🏆 Trophies Section (Fixed Layout) -->
-<h2 align="center">🏆 Achievements & Trophies</h2>
+### 🏆 Achievements & Analytics
 
 <div align="center"> 
-  <!-- Trophies: Adjusted to wrap correctly and remove borders for a clean look -->
+  <!-- Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Nav0077&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Nav0077's Trophies" />
   </a>
@@ -65,29 +47,27 @@
 
 <br/>
 
-<!-- 📊 Advanced Stats (Fixed Theme) -->
 <div align="center">
+  <!-- General Stats + Rank -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Nav0077&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" height="165" alt="stats graph" />
   
-  <!-- Left: General Stats + Rank -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nav0077&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" height="150" alt="stats graph" />
-  
-  <!-- Right: Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nav0077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nav0077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="languages graph" />
 </div>
 
 <div align="center">
-  <!-- Bottom: Streak Counter -->
+  <!-- Streak Counter -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nav0077&theme=tokyonight&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
 </div>
+
 ---
 
 ### 🐍 Contribution History
 
 <div align="center">
   <!-- 
-    NOTE: This image will return a 404 error until you set up the GitHub Action. 
-    See Step 2 below to fix it. 
+    NOTE: This image requires the GitHub Action to be running.
+    If it is blank, ensure the "snake.yml" workflow has run successfully.
   -->
   <img src="https://raw.githubusercontent.com/Nav0077/Nav0077/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
