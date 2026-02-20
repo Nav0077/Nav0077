@@ -53,11 +53,33 @@
 ---
 
 ### 🏆 Achievements
+<!-- 🏆 Trophies Section (Fixed Layout) -->
+<h2 align="center">🏆 Achievements & Trophies</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nav0077&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15&no-bg=true" alt="Trophies" />
+<div align="center"> 
+  <!-- Trophies: Adjusted to wrap correctly and remove borders for a clean look -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nav0077&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Nav0077's Trophies" />
+  </a>
 </div>
 
+<br/>
+
+<!-- 📊 Advanced Stats (Fixed Theme) -->
+<div align="center">
+  
+  <!-- Left: General Stats + Rank -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Nav0077&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" height="150" alt="stats graph" />
+  
+  <!-- Right: Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nav0077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+
+</div>
+
+<div align="center">
+  <!-- Bottom: Streak Counter -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nav0077&theme=tokyonight&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
+</div>
 ---
 
 ### 🐍 Contribution History
