@@ -3,12 +3,14 @@
 <h3 align="center">🚀 CSIT Student | Game & App Developer | Creator of ATLAS ENGINE</h3>
 
 <p align="center">  
-  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Solo+Game+Dev+%F0%9F%8E%AE;Flutter+App+Builder+%F0%9F%93%B1;OpenGL+%2F+C%2B%2B+Game+Engine+Dev+%F0%9F%94%A5;Unity+Horror+Games+in+Progress+%F0%9F%91%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Solo+Game+Dev+%F0%9F%8E%AE;Flutter+App+Builder+%F0%9F%93%B1;OpenGL+%2F+C%2B%2B+Game+Engine+Dev+%F0%9F%94%A5;Unity+Horror+Games+in+Progress+%F0%9F%91%BB" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **Game Dev**  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -25,6 +27,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+</div>
 
 ---
 
@@ -57,18 +61,25 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
+  <!-- Note: This image will only appear after the GitHub Action runs successfully -->
   <img src="https://raw.githubusercontent.com/Nav0077/Nav0077/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
-
-> To enable this, create a GitHub Action using [`Platane/snk`](https://github.com/Platane/snk) or I can help you automate it.
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/nav]("https://www.linkedin.com/in/nav-b-9310b9312/"))
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)]([https://youtube.com/@YOUR-CHANNEL]("https://www.youtube.com/@77me-x"))
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:basnetnavraj4@gmail.com")
+<p align="center">
+<a href="https://www.linkedin.com/in/nav-b-9310b9312/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://www.youtube.com/@77me-x">
+  <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube">
+</a>
+<a href="mailto:basnetnavraj4@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+</p>
 
 ---
 
