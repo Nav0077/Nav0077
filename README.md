@@ -44,8 +44,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nav0077&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nav0077&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nav0077&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nav0077&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+<!-- Optional: Add Streak Stats if you like -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nav0077&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -53,7 +58,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nav0077&theme=monokai&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nav0077&theme=monokai&row=1&column=7&no-bg=true" />
 </p>
 
 ---
@@ -61,7 +66,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <!-- Note: This image will only appear after the GitHub Action runs successfully -->
+  <!-- This image requires the GitHub Action to be setup (see instructions) -->
   <img src="https://raw.githubusercontent.com/Nav0077/Nav0077/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
