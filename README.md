@@ -3,7 +3,7 @@
 <h3 align="center">🚀 CSIT Student | Game & App Developer | Creator of ATLAS ENGINE</h3>
 
 <p align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Solo+Game+Dev+%F0%9F%8E%AE;Flutter+App+Builder+%F0%9F%93%B1;OpenGL+%2F+C%2B%2B+Game+Engine+Dev+%F0%9F%94%A5;Unity+Horror+Games+in+Progress+%F0%9F%91%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Solo+Game+Dev+%F0%9F%8E%AE;Flutter+App+Builder+%F0%9F%93%B1;OpenGL+%2F+C%2B%2B+Game+Engine+Dev+%F0%9F%94%A5;Unity+Horror+Games+in+Progress+%F0%9F%91%BB" alt="Typing SVG" />
 </p>
 
 ---
