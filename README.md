@@ -3,7 +3,7 @@
   <!-- Header & Typing Animation -->
   <h1>Hi there, I'm <a href="https://github.com/Nav0077">Nav Raj Basnet</a> 👋</h1>
   
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F88C5&center=true&vCenter=true&width=500&lines=Game+Developer+%F0%9F%8E%AE;Flutter+App+Architect+%F0%9F%93%B1;Building+ATLAS+ENGINE+%F0%9F%94%A5;C%2B%2B+%2F+OpenGL+Enthusiast" alt="Typing SVG" />
   </a>
 
