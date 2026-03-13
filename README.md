@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
            
   <!-- Header & Typing Animation -->   
   <h1>Hi there, I'm <a href="https://github.com/Nav0077">Nav Raj Basnet</a> 👋</h1>
