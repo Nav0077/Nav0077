@@ -39,49 +39,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
+## 👨‍💻 About Me
 
-<!-- ===== ABOUT ME SECTION ===== -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" />
+</div>
 
-<table align="center">
-<tr>
-<td width="55%">
+---
 
-<img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"/>
+### 🚀 Who Am I?
 
 ```js
-const yourName = {
-    pronouns: "He" | "Him",
-    code: [
-        "JavaScript", "TypeScript", 
-        "Python", "Rust", "Go"
-    ],
-    askMeAbout: [
-        "Web Dev", "Cloud", 
-        "System Design", "Open Source"
-    ],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "SASS", "Styled-Components"],
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["FastAPI", "Django"],
-        },
-        databases: [
-            "PostgreSQL", "MongoDB", 
-            "Redis", "Supabase"
-        ],
-        devOps: [
-            "AWS", "Docker", 
-            "Kubernetes", "CI/CD"
-        ],
-        ai_ml: [
-            "TensorFlow", "PyTorch", 
-            "LangChain", "OpenAI"
-        ],
-    },
-    currentFocus: "Building AI-powered tools",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+const developer = {
+  name: "Your Name",
+  pronouns: "He/Him",
+  role: "Full Stack Developer",
+  experience: "5+ Years",
+  focus: "Building AI-powered tools 🚀",
 };
