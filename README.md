@@ -1,6 +1,6 @@
 <!-- ===== HEADER SECTION ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Your%20Name%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast%20|%20Tech%20Explorer&descSize=16&descAlignY=52" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Your%20NAV%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=GAME%20Developer%20|%20Open%20Source%20Enthusiast%20|%20Tech%20Explorer&descSize=16&descAlignY=52" width="100%" />
 </div>
 
 <!-- ===== TYPING SVG ===== -->
@@ -52,8 +52,8 @@
 
 <img src="https://ui-avatars.com/api/?name=Your+Name&background=EEEDFE&color=3C3489&size=100&bold=true&rounded=true" width="100" height="100" />
 
-### Your Name
-**Full Stack Developer** · He/Him
+### NAV RAJ BASNET
+**GAME DEVELOPER** · He/Him
 
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-7B68EE?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Open%20Source-2ECC71?style=flat-square)
@@ -67,10 +67,10 @@
 
 | 📋 Overview | |
 |---|---|
-| 🏷️ **Experience** | 5+ Years |
+| 🏷️ **Experience** | 1+ Years |
 | 💼 **Role** | Full Stack Developer |
 | 🙋 **Pronouns** | He / Him |
-| 🎯 **Focus** | AI-powered tools |
+| 🎯 **Focus** | GAME DEVLOPEMENT|
 
 </div>
 
