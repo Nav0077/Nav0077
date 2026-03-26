@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://ui-avatars.com/api/?name=Your+Name&background=EEEDFE&color=3C3489&size=100&bold=true&rounded=true" width="100" height="100" />
+<img src="https://ui-avatars.com/api/?name=NAV&background=EEEDFE&color=3C3489&size=100&bold=true&rounded=true" width="100" height="100" />
 
 ### NAV RAJ BASNET
 **GAME DEVELOPER** · He/Him
