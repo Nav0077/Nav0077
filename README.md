@@ -46,5 +46,94 @@
 </div>
 
 ---
+## 👨‍💻 Who Am I?
 
-<img width="1440" height="748" alt="image" src="https://github.com/user-attachments/assets/1428a1ef-2730-4a15-8008-a03f83f97791" />
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" style="border-radius:12px; overflow:hidden; border: 1px solid #e0e0e0;">
+
+  <!-- TOP: Avatar + Name + Badges -->
+  <tr>
+    <td align="left" style="padding: 20px 24px 16px; border-bottom: 1px solid #e0e0e0;">
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td style="padding-right: 16px;">
+            <img src="https://ui-avatars.com/api/?name=Your+Name&background=EEEDFE&color=3C3489&size=64&bold=true&font-size=0.33&rounded=true" width="64" height="64" style="border-radius:50%"/>
+          </td>
+          <td valign="middle">
+            <strong style="font-size:18px;">Your Name</strong><br/>
+            <sub>Full Stack Developer &mdash; He/Him</sub><br/><br/>
+            <img src="https://img.shields.io/badge/Full%20Stack-7B68EE?style=flat-square&logoColor=white"/>
+            &nbsp;
+            <img src="https://img.shields.io/badge/Open%20Source-2ECC71?style=flat-square&logoColor=white"/>
+            &nbsp;
+            <img src="https://img.shields.io/badge/AI--Powered%20Tools-FF6B6B?style=flat-square&logoColor=white"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- BODY: Overview + Stack side by side -->
+  <tr>
+    <td style="padding: 0;">
+      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tr>
+
+          <!-- Overview -->
+          <td valign="top" width="50%" style="padding: 20px 24px; border-right: 1px solid #e0e0e0;">
+            <sub><b>OVERVIEW</b></sub><br/><br/>
+            <table border="0" cellspacing="0" cellpadding="4">
+              <tr>
+                <td><sub>Experience</sub></td>
+                <td>&nbsp;&nbsp;</td>
+                <td><b>5+ years</b></td>
+              </tr>
+              <tr>
+                <td><sub>Role</sub></td>
+                <td>&nbsp;&nbsp;</td>
+                <td><b>Full Stack Dev</b></td>
+              </tr>
+              <tr>
+                <td><sub>Pronouns</sub></td>
+                <td>&nbsp;&nbsp;</td>
+                <td><b>He / Him</b></td>
+              </tr>
+              <tr>
+                <td><sub>Focus</sub></td>
+                <td>&nbsp;&nbsp;</td>
+                <td><b>AI-powered tools</b></td>
+              </tr>
+            </table>
+          </td>
+
+          <!-- Stack -->
+          <td valign="top" width="50%" style="padding: 20px 24px;">
+            <sub><b>STACK</b></sub><br/><br/>
+            <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+            <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+          </td>
+
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- FOOTER -->
+  <tr>
+    <td align="left" style="padding: 12px 24px; border-top: 1px solid #e0e0e0;">
+      <sub>Currently building <b>AI-powered tools</b></sub>
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/🟢 Open%20to%20Collaborate-ffffff?style=flat-square&logoColor=green"/>
+    </td>
+  </tr>
+
+</table>
+
+</div>
