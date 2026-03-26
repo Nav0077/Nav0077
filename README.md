@@ -47,13 +47,4 @@
 
 ---
 
-### 🚀 Who Am I?
-
-```js
-const developer = {
-  name: "Your Name",
-  pronouns: "He/Him",
-  role: "Full Stack Developer",
-  experience: "5+ Years",
-  focus: "Building AI-powered tools 🚀",
-};
+<img width="1440" height="748" alt="image" src="https://github.com/user-attachments/assets/1428a1ef-2730-4a15-8008-a03f83f97791" />
