@@ -1,81 +1,42 @@
-<div align="center">   
-                
-  <!-- Header & Typing Animation -->     
-  <h1>Hi there, I'm <a href="https://github.com/Nav0077">Nav Raj Basnet</a> 👋</h1>
-   
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F88C5&center=true&vCenter=true&width=500&lines=Game+Developer+%F0%9F%8E%AE;Flutter+App+Architect+%F0%9F%93%B1;Building+ATLAS+ENGINE+%F0%9F%94%A5;C%2B%2B+%2F+OpenGL+Enthusiast" alt="Typing SVG" />
-  </a>  
-
-  <br/>
-
-  <!-- Social Links -->
-  <a href="https://www.linkedin.com/in/nav-b-9310b9312/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@77me-x">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:basnetnavraj4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
----
-
-### 🛠️ Tech Stack & Tools
-
+<!-- Header Banner -->
 <div align="center">
-
-| **Game Dev** | **Mobile & Web** | **Languages** |
-| :---: | :---: | :---: |
-| ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) <br> ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) <br> ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) <br> ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) <br> ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) <br> ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) <br> ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) <br> ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20[Your%20Name]%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" />
 </div>
 
----
-
-### 🏆 Achievements & Analytics
-
-<div align="center"> 
-  <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nav0077&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Nav0077's Trophies" />
+<!-- Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Problem+Solver+%F0%9F%A7%A9;Building+Cool+Things+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
+</div>
+
+<!-- Social Badges -->
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
+  
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=6E57F7&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
 <br/>
 
-<div align="center">
-  <!-- General Stats + Rank -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nav0077&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" height="165" alt="stats graph" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nav0077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="languages graph" />
-</div>
+<!-- About Me Section -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<div align="center">
-  <!-- Streak Counter -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nav0077&theme=tokyonight&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
-</div>
+```yaml
+name: "Your Name"
+location: "San Francisco, CA 🌁"
+current_role: "Senior Software Engineer @ Company"
+education: "B.S. Computer Science"
 
----
+currently_working_on: "Building scalable microservices & cloud-native apps"
+currently_learning: "Rust, WebAssembly, and System Design"
+looking_to_collaborate_on: "Open source projects & innovative ideas"
+fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
-### 🐍 Contribution History
-
-<div align="center">
-  <!-- 
-    NOTE: This image requires the GitHub Action to be running.
-    If it is blank, ensure the "snake.yml" workflow has run successfully.
-  -->
-  <img src="https://raw.githubusercontent.com/Nav0077/Nav0077/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nav0077&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  <br>
-  <b>"Code hard. Build smart. Share always."</b>
-</div>
+life_motto: "Code, Coffee, Create, Repeat ☕"
