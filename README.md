@@ -17,18 +17,18 @@
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Nav0777777)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://navrajbasnet.com.np)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basnetnavraj4@email.com)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nav)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@77me-x)
   [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nav)
   
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=6E57F7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nav0077&label=Profile%20Views&color=6E57F7&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=6E57F7&labelColor=0d1117" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Nav0077?label=Followers&style=for-the-badge&color=6E57F7&labelColor=0d1117" alt="Followers" />
   </a>
   <a href="https://github.com/yourusername?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=6E57F7&labelColor=0d1117" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/Nav007?label=Total%20Stars&style=for-the-badge&color=6E57F7&labelColor=0d1117" alt="Stars" />
   </a>
 
 </div>
