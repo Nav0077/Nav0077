@@ -1,4 +1,4 @@
- <!-- ===== HEADER SECTION ===== -->
+  <!-- ===== HEADER SECTION ===== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Your%20NAV%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=GAME%20DEVELOPER%20|%20Open%20Source%20Enthusiast%20|%20SOFTWARE%20DEVELOPER&descSize=16&descAlignY=52" width="100%" />
 </div>
