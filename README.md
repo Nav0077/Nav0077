@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/github/stars/Nav007?label=Total%20Stars&style=for-the-badge&color=6E57F7&labelColor=0d1117" alt="Stars" />
   </a>
 
-</div>
+</div> 
 
 <br/>
 
