@@ -4,18 +4,18 @@
 </div> 
  
 <!-- ===== TYPING SVG ===== -->    
-<div align="center">
+<div align="center">  
   <a href="https://git.io/typing-svg">  
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Game+Developer+%F0%9F%92%BB;5%2B+Years+of+Coding+Experience+%F0%9F%93%88;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning+New+Things+%F0%9F%8C%B1;Building+Cool+Stuff+%F0%9F%9A%80;Let's+Collaborate!+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Game+Developer+%F0%9F%92%BB;5%2B+Years+of+Coding+Experience+%F0%9F%93%88;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning+New+Things+%F0%9F%8C%B1;Building+Cool+Stuff+%F0%9F%9A%80;Let's+Collaborate!+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </div> 
-
+ 
 <!-- ===== SOCIAL BADGES ===== -->
 <div align="center">
    
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nav-b-9310b9312/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Nav0777777)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://navrajbasnet.com.np)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://navrajbasnet.com.np) 
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basnetnavraj4@email.com)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nav)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@77me-x)
